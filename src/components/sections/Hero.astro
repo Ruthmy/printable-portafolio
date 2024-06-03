@@ -1,4 +1,5 @@
 ---
+import Section from '@/components/Section.astro';
 // Info
 import { basics } from '@cv';
 
@@ -6,7 +7,7 @@ const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
 ---
 
-<section>
+<Section>
   <div class="container">
     <div class="info">
       <h1>{name}</h1>
@@ -35,7 +36,7 @@ const { city, region } = location;
       <img src={image} alt={name} />
     </figure>
   </div>
-</section>
+</Section>
 
 <style>
   .container {
