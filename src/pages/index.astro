@@ -9,9 +9,12 @@ import Hero from "@/components/sections/Hero.astro";
 import Projects from "@/components/sections/Projects.astro";
 import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
+// Info
+import { basics } from "@cv";
+const { name, label } = basics;
 ---
 
-<Layout title="Minimalist Portfolio">
+<Layout title={`${name} Portfolio - ${label}`}>
   <main>
     <Hero />
     <About />
