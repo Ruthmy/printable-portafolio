@@ -1,110 +1,243 @@
 {
-    "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
-      "image": "",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
-      "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
-      },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+  "basics": {
+    "name": "Ruth Abreu",
+    "label": "Full-Stack developer",
+    "image": "/me.webp",
+    "email": "ruthmy17@gmail.com",
+    "phone": "+58 4124174958",
+    "url": "https://ruthabreu-portfolio.netlify.app/",
+    "summary": "+1 years of experience as a web developer. +4 years of experience in different environments: from technical support to graphic design and content creation in international companies. Currently I am a content creator and development communicator.",
+    "location": {
+      "city": "San Juan de los Morros",
+      "countryCode": "VE",
+      "region": "Venezuela"
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://linkedin.com/in/ruth-abreu/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Ruthmy",
+        "url": "https://github.com/Ruthmy"
+      },
+      {
+        "network": "X",
+        "username": "rury_exe",
+        "url": "https://x.com/rury_exe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelancer",
+      "position": "Full Stack Developer",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "summary": "I have designed and developed full-stack web applications with solid databases, functionalities, responsive designs, and best coding practices, following industry standards like version control (GitHub | GitFlow), & TDD (Test Driven Development)",
       "highlights": [
         "Started the company"
       ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+    },
+    {
+      "name": "Mercados de Alimentos C.A.",
+      "position": "State Technical Support Coordinator",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Led technical support and maintenance of computer equipment, servers, and technological infrastructure at the state level, ensuring the operational continuity of 8 establishments with over 200 devices.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Started the company"
       ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
+    },
+    {
+      "name": "Centria Group",
+      "position": "WordPress Web Designer and Developer",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-30",
+      "summary": "I achieved the creation of original content and the development of a multi-platform website for the brand MindFit Global, increasing its online presence and customer interaction.",
+      "highlights": [
+        "Started the company"
       ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Microverse",
+      "url": "https://www.microverse.org/full-stack-program",
+      "area": "Full Stack Web Developer",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-01",
+      "endDate": "2024-01-23"
+    },
+    {
+      "institution": "Universidad Nacional Experimental de los Llanos Centrales 'Rómulo Gallegos'",
+      "url": "https://unerg.edu.ve/",
+      "area": "Software Engineer",
+      "studyType": "Higher Education",
+      "startDate": "2008-10-13",
+      "endDate": "2016-11-16"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
       "keywords": [
+        "Web development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Redux",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "State management"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Programming language"
+      ]
+    },
+    {
+      "name": "Rails",
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Ruby Framework",
+        "API"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Version control",
+        "Colaboración",
+        "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Version control",
+        "Collaboration",
+        "Source code",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MindFit",
+      "isActive": true,
+      "description": "An all-rounded digital platform that offers solutions for mental wellness, personal, professional, and leadership development.",
+      "highlights": [
+        "WordPress",
+        "Multipage",
+        "Elementor",
+        "Illustrator"
+      ],
+      "url": "https://mindfitglobal.com/"
+    },
+    {
+      "name": "Rent for a day",
+      "isActive": true,
+      "description": "A reservation-based application to rent a property/accommodation for a day. This project is both an API built with Ruby on Rails and PostgreSQL, and a React/Redux application.",
+      "highlights": [
+        "React",
+        "Redux",
+        "Rails",
+        "PostgreSQL",
+        "API Rest"
+      ],
+      "url": "https://rent-for-a-day-kqic.onrender.com/",
+      "github": "https://github.com/Ruthmy/rentforaday-front"
+    },
+    {
+      "name": "TVMaze",
+      "isActive": true,
+      "description": "A website where you can see top shows related info, like them, and add comments.",
+      "highlights": [
         "HTML",
         "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
+        "JavaScript",
+        "Bootstrap",
+        "API Rest"
       ],
-      "url": "https://project.com/"
-    }]
-  }
+      "url": "https://iturres.github.io/TVmaze-shows-website/dist/",
+      "github": "https://github.com/ITurres/TVmaze-shows-website"
+    }
+  ]
+}
