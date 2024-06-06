@@ -1,14 +1,16 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b><em>Resumé</em> minimalista maquetado para web y pdf</b></h1>
+    <h1><b><em>Résumé</em> minimalist layout for web and PDF.</b></h1>
 </div>
 
 <br>
 <div align="center">
 <img height="400" src="screenshot.png"></img>
 
+
 <br>
+
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/Ruthmy/printable-portafolio)
@@ -175,7 +177,7 @@ I would like to thank [Midudev](https://github.com/midudev), for his amazing wor
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
