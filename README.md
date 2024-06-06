@@ -62,16 +62,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 - [**Astro**](https://astro.build/) - The new age web framework.
 - [**Typescript**](https://www.typescriptlang.org/) - JavaScript with typing syntax.
 - [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure Javascript.
-<ul>
-  <li>Linters
-    <ul>
-      <li>Lihgthouse</li>
-      <li>Webhint</li>
-      <li>StyleLint</li>
-      <li>ESLint</li>
-    </ul>
-  </li>
-</ul>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
