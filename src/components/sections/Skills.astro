@@ -1,0 +1,72 @@
+---
+import Section from "@/components/Section.astro";
+// Info
+import { skills } from "@cv";
+// Icons
+import AstroFramework from "@/icons/AstroFramework.astro";
+import CSS from "@/icons/css.astro";
+import Git from "@/icons/Git.astro";
+import GitHub from "@/icons/GitHub.astro";
+import HTML from "@/icons/html.astro";
+import JavaScript from "@/icons/JavaScript.astro";
+import PostgreSQL from "@/icons/PostgreSQL.astro";
+import Rails from "@/icons/Rails.astro";
+import React from "@/icons/React.astro";
+import Redux from "@/icons/Redux.astro";
+import Ruby from "@/icons/Ruby.astro";
+import Tailwind from "@/icons/Tailwind.astro";
+
+const SKILLS_ICONS: Record<string, any> = {
+  Astro: AstroFramework,
+  CSS,
+  Git,
+  GitHub,
+  HTML,
+  JavaScript,
+  PostgreSQL,
+  Rails,
+  React,
+  Redux,
+  Ruby,
+  Tailwind,
+};
+---
+
+<Section title="Skills">
+  <ul>
+    {
+      skills.map(({ name }) => {
+        const Icon = SKILLS_ICONS[name];
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: black;
+    border-radius: 6px;
+    background: #eee;
+    padding: 0.2rem 0.6rem;
+  }
+
+  li:hover {
+    background: #ddd;
+  }
+</style>

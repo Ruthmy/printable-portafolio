@@ -13,21 +13,13 @@
     "@astrojs/check": "^0.4.1",
     "@astrojs/tailwind": "^5.1.0",
     "astro": "^4.3.5",
+    "ninja-keys": "^1.2.2",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
   },
   "description": "```sh npm create astro@latest -- --template basics ```",
   "main": "index.js",
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.29.1",
-    "hint": "^7.1.10",
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^21.0.0",
-    "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0"
   },
   "keywords": [],
   "author": "",
