@@ -1,0 +1,242 @@
+{
+  "basics": {
+    "name": "Ruth Abreu",
+    "label": "Full-Stack developer",
+    "image": "/me.webp",
+    "email": "ruthmy17@gmail.com",
+    "phone": "+58 4124174958",
+    "url": "https://portfolio-printable.netlify.app/",
+    "summary": "+1 years of experience as a web developer. +4 years of experience in different environments: from technical support to graphic design and content creation in international companies.",
+    "location": {
+      "city": "San Juan de los Morros",
+      "countryCode": "VE",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ruth-abreu",
+        "url": "https://linkedin.com/in/ruth-abreu/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Ruthmy",
+        "url": "https://github.com/Ruthmy"
+      },
+      {
+        "network": "X",
+        "username": "rury_exe",
+        "url": "https://x.com/rury_exe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelancer",
+      "position": "Full Stack Developer",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "summary": "Developed over 30 projects using tech stacks like HTML, CSS, Tailwind CSS JavaScript, React & Redux, Ruby, Rails, PostgreSQL, and SQL.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Mercados de Alimentos C.A.",
+      "position": "State Technical Support Coordinator",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2019-04-01",
+      "endDate": "2022-1-31",
+      "summary": "Ensured the operational continuity of 8 locations and more than 200 devices, leading the support and maintenance of the tech infrastructure and working closely with users and operators from different administrative areas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Centria Group",
+      "position": "WordPress Web Designer and Developer",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-30",
+      "summary": "Developed a multi-platform website for MindFit Global, boosting their online presence and customer engagement by creating original content.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Microverse",
+      "url": "https://www.microverse.org/full-stack-program",
+      "area": "Full Stack Web Developer",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-01",
+      "endDate": "2024-02-23"
+    },
+    {
+      "institution": "Universidad Nacional Experimental de los Llanos Centrales 'Rómulo Gallegos'",
+      "url": "https://unerg.edu.ve/",
+      "area": "Software Engineer",
+      "studyType": "Higher Education",
+      "startDate": "2008-10-13",
+      "endDate": "2016-11-16"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Redux",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "State management"
+      ]
+    },
+    {
+      "name": "Astro",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Static site generator"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Programming language"
+      ]
+    },
+    {
+      "name": "Rails",
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Ruby Framework",
+        "API"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Version control",
+        "Colaboración",
+        "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Version control",
+        "Collaboration",
+        "Source code",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MindFit",
+      "isActive": true,
+      "description": "An all-rounded digital platform that offers solutions for mental wellness, personal, professional, and leadership development.",
+      "highlights": [
+        "WordPress",
+        "Multipage",
+        "Elementor",
+        "Illustrator"
+      ],
+      "url": "https://mindfitglobal.com/"
+    },
+    {
+      "name": "Rent for a day",
+      "isActive": true,
+      "description": "A reservation-based application to rent a property/accommodation for a day. This project is both an API built with Ruby on Rails and PostgreSQL, and a React/Redux application.",
+      "highlights": [
+        "React",
+        "Redux",
+        "Rails",
+        "PostgreSQL",
+        "API Rest"
+      ],
+      "url": "https://rent-for-a-day-kqic.onrender.com/",
+      "github": "https://github.com/Ruthmy/rentforaday-front"
+    },
+    {
+      "name": "TVMaze",
+      "isActive": true,
+      "description": "A website where you can see top shows related info, like them, and add comments.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "API Rest"
+      ],
+      "url": "https://iturres.github.io/TVmaze-shows-website/dist/",
+      "github": "https://github.com/ITurres/TVmaze-shows-website"
+    }
+  ]
+}
