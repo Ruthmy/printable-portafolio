@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "ruthmy17@gmail.com",
     "phone": "+58 4124174958",
-    "url": "https://ruthabreu-portfolio.netlify.app/",
+    "url": "https://portfolio-printable.netlify.app/",
     "summary": "+1 years of experience as a web developer. +4 years of experience in different environments: from technical support to graphic design and content creation in international companies.",
     "location": {
       "city": "San Juan de los Morros",
@@ -37,7 +37,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2023-02-01",
       "endDate": null,
-      "summary": "Developed over 30 projects using tech stacks like HTML, CSS, JavaScript, React & Redux, Ruby, Rails, PostgreSQL, and SQL.",
+      "summary": "Developed over 30 projects using tech stacks like HTML, CSS, Tailwind CSS JavaScript, React & Redux, Ruby, Rails, PostgreSQL, and SQL.",
       "highlights": [
         "Started the company"
       ]
@@ -66,20 +66,20 @@
   ],
   "education": [
     {
-      "institution": "Universidad Nacional Experimental de los Llanos Centrales 'Rómulo Gallegos'",
-      "url": "https://unerg.edu.ve/",
-      "area": "Software Engineer",
-      "studyType": "Higher Education",
-      "startDate": "2008-10-13",
-      "endDate": "2016-11-16"
-    },
-    {
       "institution": "Microverse",
       "url": "https://www.microverse.org/full-stack-program",
       "area": "Full Stack Web Developer",
       "studyType": "Bootcamp",
       "startDate": "2023-02-01",
       "endDate": "2024-02-23"
+    },
+    {
+      "institution": "Universidad Nacional Experimental de los Llanos Centrales 'Rómulo Gallegos'",
+      "url": "https://unerg.edu.ve/",
+      "area": "Software Engineer",
+      "studyType": "Higher Education",
+      "startDate": "2008-10-13",
+      "endDate": "2016-11-16"
     }
   ],
   "skills": [
