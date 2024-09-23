@@ -37,7 +37,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2023-02-01",
       "endDate": null,
-      "summary": "I have designed and developed full-stack web applications with solid databases, functionalities, responsive designs, and best coding practices, following industry standards like version control (GitHub | GitFlow), & TDD (Test Driven Development)",
+      "summary": "Developed over 30 projects using tech stacks like HTML, CSS, JavaScript, React & Redux, Ruby, Rails, PostgreSQL, and SQL.",
       "highlights": [
         "Started the company"
       ]
@@ -48,7 +48,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2019-04-01",
       "endDate": "2022-1-31",
-      "summary": "Led technical support and maintenance of computer equipment, servers, and technological infrastructure at the state level, ensuring the operational continuity of 8 establishments with over 200 devices.",
+      "summary": "Ensured the operational continuity of 8 locations and more than 200 devices, leading the support and maintenance of the tech infrastructure and working closely with users and operators from different administrative areas.",
       "highlights": [
         "Started the company"
       ]
@@ -58,7 +58,7 @@
       "position": "WordPress Web Designer and Developer",
       "startDate": "2021-10-01",
       "endDate": "2021-12-30",
-      "summary": "I achieved the creation of original content and the development of a multi-platform website for the brand MindFit Global, increasing its online presence and customer interaction.",
+      "summary": "Developed a multi-platform website for MindFit Global, boosting their online presence and customer engagement by creating original content.",
       "highlights": [
         "Started the company"
       ]
@@ -66,20 +66,20 @@
   ],
   "education": [
     {
-      "institution": "Microverse",
-      "url": "https://www.microverse.org/full-stack-program",
-      "area": "Full Stack Web Developer",
-      "studyType": "Bootcamp",
-      "startDate": "2023-02-01",
-      "endDate": "2024-02-23"
-    },
-    {
       "institution": "Universidad Nacional Experimental de los Llanos Centrales 'Rómulo Gallegos'",
       "url": "https://unerg.edu.ve/",
       "area": "Software Engineer",
       "studyType": "Higher Education",
       "startDate": "2008-10-13",
       "endDate": "2016-11-16"
+    },
+    {
+      "institution": "Microverse",
+      "url": "https://www.microverse.org/full-stack-program",
+      "area": "Full Stack Web Developer",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-01",
+      "endDate": "2024-02-23"
     }
   ],
   "skills": [
